@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Automation Tester</name>
+   <tag></tag>
+   <elementGuidId>be7f6afe-75aa-4f3b-aef9-0b0be53e8623</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[20]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2606a222-7aca-47bc-a97a-46e30f8c1ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>5c97372f-f58c-47f8-b5fd-e5fe1747f11c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Automation Tester</value>
+      <webElementGuid>21fa2325-78f2-4015-a865-029bfe511725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-body-3077692503353518311&quot;)/div[1]/div[1]/div[1]/h2[2]/div[1]/div[1]/div[@class=&quot;control-group&quot;]/label[@class=&quot;checkbox&quot;]</value>
+      <webElementGuid>2128fd90-feb3-45d2-9d0b-7d4666ea80f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[20]/label</value>
+      <webElementGuid>a3d2b925-231e-458a-8359-d1a0d445beef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]/label</value>
+      <webElementGuid>c1d63d60-c1a5-4327-bb99-3df829148220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Automation Tester' or . = ' Automation Tester')]</value>
+      <webElementGuid>b7a3a901-2037-4bf5-87ad-02e23180f09c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

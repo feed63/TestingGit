@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click here to Download File</name>
+   <tag></tag>
+   <elementGuidId>c57b5b66-e505-424f-b8d0-9ce2e392859d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.control-group > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[28]/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>23bd9d11-30b8-4f65-a698-b230b738c217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml</value>
+      <webElementGuid>30f458fa-0720-4b7a-8b28-d5ec387a92dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here to Download File</value>
+      <webElementGuid>438d406b-305e-4c91-8147-fb7fb6fa10db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-body-3077692503353518311&quot;)/div[1]/div[1]/div[1]/h2[2]/div[1]/div[1]/div[@class=&quot;controls&quot;]/div[@class=&quot;control-group&quot;]/div[@class=&quot;control-group&quot;]/a[1]</value>
+      <webElementGuid>e97a3cb1-30b8-4ca3-9385-2c8625154875</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[28]/div[2]/div/a</value>
+      <webElementGuid>a40ed9bc-28a5-4d6b-a865-98036d15dd63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click here to Download File')]</value>
+      <webElementGuid>49df7f7f-9753-4646-9925-06403af83832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml')]</value>
+      <webElementGuid>d3d94daa-890e-4bf1-910e-3d3da1b2d999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[28]/div[2]/div/a</value>
+      <webElementGuid>5aa71a86-8761-42e2-81e3-6b1176abff78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml' and (text() = 'Click here to Download File' or . = 'Click here to Download File')]</value>
+      <webElementGuid>53d65106-12eb-4b51-b1b1-4ae3dce26556</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

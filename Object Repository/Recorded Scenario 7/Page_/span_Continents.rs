@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continents</name>
+   <tag></tag>
+   <elementGuidId>960fe550-45bd-4eb2-a387-44a3784e4295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.control-group > div > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[25]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88f8faff-f724-4b1f-bb95-7816873f2d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continents</value>
+      <webElementGuid>7e3e407b-3918-46bc-80d7-78b9b8be19d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-body-3077692503353518311&quot;)/div[1]/div[1]/div[1]/h2[2]/div[1]/div[1]/div[@class=&quot;control-group&quot;]/div[1]/span[1]</value>
+      <webElementGuid>04af0ec5-87f6-4578-8cdb-c33597819ef9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[25]/div/span</value>
+      <webElementGuid>050fe049-3207-49f8-add7-d10b255283b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[25]/div/span</value>
+      <webElementGuid>7dd4b97a-3a0f-430f-a9a7-844f5a59a7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continents' or . = 'Continents')]</value>
+      <webElementGuid>9f79763a-69b6-4aac-9170-4b63473c67a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

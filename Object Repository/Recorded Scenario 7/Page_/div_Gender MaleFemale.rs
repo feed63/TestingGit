@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gender MaleFemale</name>
+   <tag></tag>
+   <elementGuidId>dbbcaf9a-a8b7-4966-a6e5-30c537f67e86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>acfe0b68-95f2-4f9b-a555-1dcf774c6570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-group</value>
+      <webElementGuid>143b55d9-f264-495c-95eb-df1428d06b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gender   Male     Female</value>
+      <webElementGuid>27c686d0-e6fe-4297-9acf-a8e7089dfd27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-body-3077692503353518311&quot;)/div[1]/div[1]/div[1]/h2[2]/div[1]/div[1]/div[@class=&quot;control-group&quot;]</value>
+      <webElementGuid>d69833fd-043a-4fa5-afa4-2e90181fbb6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[9]</value>
+      <webElementGuid>1247b8e1-4afd-486b-97c5-9bd193f83b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]</value>
+      <webElementGuid>7337b786-ef80-4920-83c0-4a3d8929b25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gender   Male     Female' or . = 'Gender   Male     Female')]</value>
+      <webElementGuid>e05a7a98-95c9-4610-982d-69319a325593</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
