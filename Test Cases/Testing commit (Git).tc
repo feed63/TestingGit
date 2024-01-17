@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Try commit to Git</description>
+   <name>Testing commit (Git)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>790ee17e-784c-43a1-91a7-127833483315</testCaseGuid>
+</TestCaseEntity>

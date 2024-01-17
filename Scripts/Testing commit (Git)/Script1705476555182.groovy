@@ -21,29 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.techlistic.com/p/selenium-practice-form.html')
 
-WebUI.setText(findTestObject('Object Repository/Page_/input_firstname'), 'aa')
+WebUI.setText(findTestObject('Object Repository/TestGit/Page_/input_firstname'), 'asd')
 
-WebUI.setText(findTestObject('Object Repository/Page_/input_lastname'), 'bb')
+WebUI.click(findTestObject('Object Repository/TestGit/Page_/input_firstname'))
 
-WebUI.click(findTestObject('Object Repository/Page_/input_sex'))
+WebUI.setText(findTestObject('Object Repository/TestGit/Page_/input_lastname'), 'asd')
 
-WebUI.click(findTestObject('Object Repository/Page_/input_exp'))
+WebUI.click(findTestObject('Object Repository/TestGit/Page_/input_sex'))
 
-WebUI.setText(findTestObject('Object Repository/Page_/inputdatepicker'), 'asd')
+WebUI.click(findTestObject('Object Repository/TestGit/Page_/input_exp'))
 
-WebUI.click(findTestObject('Object Repository/Page_/input_profession'))
+WebUI.setText(findTestObject('Object Repository/TestGit/Page_/inputdatepicker'), 'asd')
 
-WebUI.click(findTestObject('Object Repository/Page_/input_tool'))
+WebUI.click(findTestObject('Object Repository/TestGit/Page_/input_profession'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_/select_AsiaEuropeAfricaAustraliaSouth Ameri_982c86'), 
-    'Australia', true)
+WebUI.click(findTestObject('Object Repository/TestGit/Page_/input_tool'))
 
-WebUI.click(findTestObject('Object Repository/Page_/div_Selenium CommandsCSS Tutorial For Begin_0a7f1b'))
+WebUI.click(findTestObject('Object Repository/TestGit/Page_/div_if(typeof ez_ad_unitsundefined)ez_ad_un_f3bc27'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_/select_Browser CommandsNavigation CommandsS_69f390'), 
-    'WebElement Commands', true)
+WebUI.click(findTestObject('Object Repository/TestGit/Page_/button_Button'))
 
-WebUI.click(findTestObject('Object Repository/Page_/button_Button'))
+WebUI.click(findTestObject('Object Repository/TestGit/Page_/a_Click here to Download File'))
 
-WebUI.click(findTestObject('Object Repository/Page_/a_Click here to Download File'))
+WebUI.closeBrowser()
 
